@@ -38,7 +38,7 @@ This project uses the **CelebA dataset** for image classification.
 - Performed classification tasks such as:
   - Gender prediction (Male vs Female)
 
-### 🔹 Advanced Work:
+###  Advanced Work:
 - Combined image data with additional metadata (feature engineering)
 - Built two models:
   - Image-only model
@@ -47,7 +47,7 @@ This project uses the **CelebA dataset** for image classification.
 
 
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - TensorFlow / Keras
 - Scikit-learn
