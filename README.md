@@ -3,7 +3,7 @@
 
 This repository contains two machine learning projects demonstrating data preprocessing, model building, and evaluation using real-world datasets.
 
----
+
 
 ##  Project 1: Classical Machine Learning Models
 
@@ -45,7 +45,7 @@ This project uses the **CelebA dataset** for image classification.
   - Image + metadata model
 - Evaluated models using accuracy and confusion matrix :contentReference[oaicite:1]{index=1}
 
----
+
 
 ## 🛠️ Technologies Used
 - Python
@@ -54,13 +54,13 @@ This project uses the **CelebA dataset** for image classification.
 - Pandas, NumPy
 - Matplotlib, Seaborn
 
----
+
 
 ##  Files
 - `ML_Project_1.pdf` → Classical ML models
 - `ML_project_2.pdf` → Deep learning project
 
----
+
 
 ##  Key Skills Demonstrated
 - Data preprocessing and cleaning  
@@ -69,7 +69,6 @@ This project uses the **CelebA dataset** for image classification.
 - Data visualization  
 - Model evaluation and comparison  
 
----
 
 ## Note
 This project was completed as part of academic coursework at the University of North Texas.
